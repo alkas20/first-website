@@ -1,0 +1,56 @@
+.table{
+    height: 1000px;
+    width: 1000px;
+    background-color: antiquewhite; 
+}
+.item-1{
+    height: 300px;
+    width:  100%;
+    background: lightgreen;
+    display: flex;
+}
+.item-1 .box-1{
+    width: 25%;
+    height: 100%;
+    background: blue;
+} 
+.item-1 .box-2{
+    width: 25%;
+    height: 100%;
+    background: rgb(0, 255, 64);
+} 
+.item-1 .box-3{
+    width: 25%;
+    height: 100%;
+    background: rgb(255, 0, 43);
+} 
+.item-1 .box-4{
+    width: 25%;
+    height: 100%;
+    background: rgb(255, 196, 0);
+} 
+.item-1 .box-5{
+    width: 50%;
+    height: 100%;
+    background: rgb(255, 145, 0);
+} 
+.item-1 .box-6{
+    width: 50%;
+    height: 100%;
+    background: rgb(255, 81, 0);
+} 
+.item-1 .box-7{
+    width: 33.3%;
+    height: 100%;
+    background: rgb(0, 183, 255);
+} 
+.item-1 .box-8{
+    width: 33.3%;
+    height: 100%;
+    background: rgb(0, 255, 170);
+} 
+.item-1 .box-9{
+    width: 33.3%;
+    height: 100%;
+    background: rgb(255, 0, 179);
+}

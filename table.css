@@ -1,0 +1,116 @@
+ .table{ 
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+ }
+ .box-1{
+    width: 1000px;
+    height: 150px; 
+    display: flex;
+ }
+ .box-1-1{
+    width: 20%;
+    height: 100%;
+    background: violet;
+ }
+ .box-1-2{
+    width: 20%;
+    height: 100%; 
+ }
+ .box-1-2-1{
+    width: 100%;
+    height: 50%; 
+    display: flex;
+ }
+ .box-1-2-1-1{
+    width: 50%;
+    height: 100%;
+    background: rgb(116, 34, 14);
+ }
+ .box-1-2-1-2{
+    width: 50%;
+    height: 100%; 
+ }
+ .box-1-2-1-2-1{
+    width: 100%;
+    height: 50%;
+    background: rgb(99, 14, 116);
+ }
+ .box-1-2-1-2-2{
+    width: 100%;
+    height: 50%;
+    background: rgb(14, 116, 40);
+ }
+ .box-1-2-2{
+    width: 100%;
+    height: 50%;
+    background: rgb(255, 72, 0);
+ }
+ .box-1-3{
+    width: 25%;
+    height: 100%;
+    background: rgb(130, 238, 206);
+ }
+ .box-1-4{
+    width: 35%;
+    height: 100%; 
+ }
+.box-1-4-1{
+    width: 100%;
+    height: 50%; 
+    display: flex;
+}
+.box-1-4-1-1{
+    width: 50%;
+    height: 100%; 
+    display: flex;
+}
+.box-1-4-1-1-1{
+    width: 45%;
+    height: 100%;
+    background: rgb(64, 224, 77);
+}
+.box-1-4-1-1-2{
+    width: 55%;
+    height: 100%;
+    background: rgb(99, 1, 1);
+}
+.box-1-4-1-2{
+    width: 50%;
+    height: 100%;
+    background: rgb(197, 64, 224);
+}
+.box-1-4-1-2-1{
+    width: 100%;
+    height: 50%; 
+}
+.box-1-4-1-2-2{
+    width: 100%;
+    height: 50%;
+    background: rgb(141, 179, 6);
+}
+.box-1-4-2{
+    width: 100%;
+    height: 25%;
+    background: rgb(163, 224, 64);
+}
+.box-1-4-3{
+    width: 100%;
+    height: 25%;
+    background: rgb(224, 64, 64);
+}
+ .box-2{
+    width: 1000px;
+    height: 150px;
+    background: rgb(77, 170, 135);
+ }
+ .box-3{
+    width: 1000px;
+    height: 150px;
+    background: rgb(79, 77, 170);
+ }
+ .box-4{
+    width: 1000px;
+    height: 150px;
+    background: rgb(170, 77, 100);
+ }
